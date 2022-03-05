@@ -169,7 +169,6 @@ void view() {
     printf("<--:VIEW RECORD:-->");
     gotoxy(10,4);
     printf("| ----- | ---------------------- | ------------ | --------- | ------------ | ------------ |");
-//  printf("| 1     | kunal                  | 894254254    | 21        | BCA          | kamothe      |");
     gotoxy(10,5);
     printf("| Sr.No |    Name of Student     |   Mobile No  |  Roll No  |    Course    |   Branch     |");
     gotoxy(10,6);
